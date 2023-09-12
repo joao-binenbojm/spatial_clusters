@@ -1,0 +1,10 @@
+*.mat
+*.json
+*.svg
+*.pickle
+*.h5
+*.csv
+*.p
+capgmyo/experiments/cnn/intersession/
+capgmyo/experiments/cnn/intrasession/
+*/__pycache__
